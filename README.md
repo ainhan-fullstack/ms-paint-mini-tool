@@ -1,4 +1,4 @@
-Link to the app:
+Link to the app: https://ainhan-fullstack.github.io/ms-paint-mini-tool/
 
 **Drawing App**
   - A simple drawing application built with HTML, CSS, and JavaScript. This app allows you to draw on a canvas using a variety of tools, including a brush, rectangle, square, circle, and eraser. It also includes handy features like undo/redo, clear, and custom settings for stroke color and line width.
@@ -21,7 +21,7 @@ Link to the app:
 
 **Usage**
   - Open the App
-    - 
+    - https://ainhan-fullstack.github.io/ms-paint-mini-tool/
   - Select a Tool
     - Click on the toolbar buttons to choose your drawing tool.
     - When a tool is selected, it will appear "pressed" (descended) thanks to the CSS effects.
@@ -32,11 +32,6 @@ Link to the app:
     - Use the color picker and line width input in the toolbar to customize your drawing.
   - Undo/Redo
     - Use the undo and redo buttons, or use keyboard shortcuts (Ctrl/Cmd + Z for undo, Ctrl/Cmd + Y or Shift + Ctrl/Cmd + Z for redo) to navigate through your drawing history.
-   
-**Installation**
-  - git clone 
-  - cd ms-paint-mini-tool
-  - open index.html
 
 **Code Structure**
   - HTML5: Provides the structure for the drawing app.
