@@ -21,7 +21,7 @@ Link to the app:
 
 **Usage**
   - Open the App
-    - https://john-nahan.github.io/ms-paint-mini-tool/
+    - 
   - Select a Tool
     - Click on the toolbar buttons to choose your drawing tool.
     - When a tool is selected, it will appear "pressed" (descended) thanks to the CSS effects.
@@ -34,7 +34,7 @@ Link to the app:
     - Use the undo and redo buttons, or use keyboard shortcuts (Ctrl/Cmd + Z for undo, Ctrl/Cmd + Y or Shift + Ctrl/Cmd + Z for redo) to navigate through your drawing history.
    
 **Installation**
-  - git clone https://github.com/john-nahan/ms-paint-mini-tool.git
+  - git clone 
   - cd ms-paint-mini-tool
   - open index.html
 
